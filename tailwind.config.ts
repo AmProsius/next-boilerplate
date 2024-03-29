@@ -15,8 +15,7 @@ const config: Config = {
       },
     },
   },
-  plugins: [
-    require('tailwindcss-react-aria-components')
-  ],
+  plugins: [require("tailwindcss-react-aria-components")],
 };
+
 export default config;
